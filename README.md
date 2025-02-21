@@ -1,2 +1,2 @@
 # De-personal
-project is regarding de
+project is regarding the data analytics
